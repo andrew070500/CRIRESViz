@@ -1,0 +1,13 @@
+0,1
+"7
+.2  Wavelength Settings",
+The  properties  of  the  29  CRIRES  wavelength  settings  are  listed  in  Table  20.  During  the,
+"intervention on 2022-05-04, the wavelength settings were slightly adjusted. Take note that",
+the  current  ETC  version  may  display  some  additional  orders,that  are  heavily
+"vignetted. We will correct for this in an upcoming ETC version. Consequently, users are",
+"advised to double-check the ETC output with the values listed in the following table, which",
+is the correct reference of the accessible spectral orders per wavelength setting.,
+Table 20: Wavelength coverage of CRIRES settings for the three detectors. A few vignetted,
+(but potentially useful) orders located at the detector edge or at the wavelength cut-off at,
+"5300nm are listed; they are marked with an asterisk (*). In these orders, the target may only",
+"be visible at one nodding position, and these orders may not get reduced by the pipeline.",

@@ -1,24 +1,2076 @@
+H1559:
+  band: H
+  reference_wavelength: 1.559245
+  orders:
+    38:
+      detector1:
+        min: 1.461252
+        max: 1.47149
+      detector2:
+        min: 1.472229
+        max: 1.482015
+      detector3:
+        min: 1.482697
+        max: 1.492
+    37:
+      detector1:
+        min: 1.500764
+        max: 1.5112729999999999
+      detector2:
+        min: 1.512031
+        max: 1.522076
+      detector3:
+        min: 1.522777
+        max: 1.532327
+    36:
+      detector1:
+        min: 1.542463
+        max: 1.553258
+      detector2:
+        min: 1.5540340000000001
+        max: 1.564353
+      detector3:
+        min: 1.5650730000000002
+        max: 1.574883
+    35:
+      detector1:
+        min: 1.58653
+        max: 1.597627
+      detector2:
+        min: 1.598423
+        max: 1.60903
+      detector3:
+        min: 1.609771
+        max: 1.619855
+    34:
+      detector1:
+        min: 1.633173
+        max: 1.644588
+      detector2:
+        min: 1.645406
+        max: 1.656317
+      detector3:
+        min: 1.6570799999999999
+        max: 1.667454
+    33:
+      detector1:
+        min: 1.682625
+        max: 1.6943759999999999
+      detector2:
+        min: 1.6952159999999998
+        max: 1.706449
+      detector3:
+        min: 1.7072370000000001
+        max: 1.717917
+    32:
+      detector1:
+        min: 1.735145
+        max: 1.7472509999999999
+      detector2:
+        min: 1.748115
+        max: 1.759689
+      detector3:
+        min: 1.760499
+        max: 1.7715029999999998
+H1567:
+  band: H
+  reference_wavelength: 1.567099
+  orders:
+    39:
+      detector1:
+        min: 1.431243
+        max: 1.441052
+      detector2:
+        min: 1.441763
+        max: 1.451128
+      detector3:
+        min: 1.451778
+        max: 1.460671
+    38:
+      detector1:
+        min: 1.468933
+        max: 1.4789949999999998
+      detector2:
+        min: 1.479723
+        max: 1.489331
+      detector3:
+        min: 1.489999
+        max: 1.499122
+    37:
+      detector1:
+        min: 1.508653
+        max: 1.518982
+      detector2:
+        min: 1.519727
+        max: 1.52959
+      detector3:
+        min: 1.530277
+        max: 1.539643
+    36:
+      detector1:
+        min: 1.550568
+        max: 1.5611780000000002
+      detector2:
+        min: 1.561942
+        max: 1.572073
+      detector3:
+        min: 1.572779
+        max: 1.582399
+    35:
+      detector1:
+        min: 1.594864
+        max: 1.60577
+      detector2:
+        min: 1.6065530000000001
+        max: 1.616967
+      detector3:
+        min: 1.617693
+        max: 1.627582
+    34:
+      detector1:
+        min: 1.641751
+        max: 1.6529690000000001
+      detector2:
+        min: 1.653772
+        max: 1.6644839999999999
+      detector3:
+        min: 1.665232
+        max: 1.675405
+    33:
+      detector1:
+        min: 1.69146
+        max: 1.70301
+      detector2:
+        min: 1.7038330000000002
+        max: 1.7148610000000002
+      detector3:
+        min: 1.7156310000000001
+        max: 1.726104
+    32:
+      detector1:
+        min: 1.744249
+        max: 1.7561479999999998
+      detector2:
+        min: 1.7569919999999999
+        max: 1.768353
+      detector3:
+        min: 1.7691489999999999
+        max: 1.7799390000000002
+H1575:
+  band: H
+  reference_wavelength: 1.574798
+  orders:
+    39:
+      detector1:
+        min: 1.43865
+        max: 1.448286
+      detector2:
+        min: 1.4489839999999998
+        max: 1.458174
+      detector3:
+        min: 1.4588109999999999
+        max: 1.467526
+    38:
+      detector1:
+        min: 1.4765329999999999
+        max: 1.4864179999999998
+      detector2:
+        min: 1.4871320000000001
+        max: 1.49656
+      detector3:
+        min: 1.497215
+        max: 1.506156
+    37:
+      detector1:
+        min: 1.516458
+        max: 1.526606
+      detector2:
+        min: 1.527336
+        max: 1.537013
+      detector3:
+        min: 1.5376869999999998
+        max: 1.546865
+    36:
+      detector1:
+        min: 1.55859
+        max: 1.569013
+      detector2:
+        min: 1.569759
+        max: 1.5797
+      detector3:
+        min: 1.580393
+        max: 1.589821
+    35:
+      detector1:
+        min: 1.603114
+        max: 1.613827
+      detector2:
+        min: 1.614592
+        max: 1.624811
+      detector3:
+        min: 1.6255229999999998
+        max: 1.6352149999999999
+    34:
+      detector1:
+        min: 1.65024
+        max: 1.6612609999999999
+      detector2:
+        min: 1.6620460000000001
+        max: 1.672557
+      detector3:
+        min: 1.673292
+        max: 1.683262
+    33:
+      detector1:
+        min: 1.700203
+        max: 1.711547
+      detector2:
+        min: 1.712355
+        max: 1.723176
+      detector3:
+        min: 1.723934
+        max: 1.7341980000000001
+    32:
+      detector1:
+        min: 1.753257
+        max: 1.764944
+      detector2:
+        min: 1.7657770000000002
+        max: 1.776926
+      detector3:
+        min: 1.7777100000000001
+        max: 1.7882850000000001
+H1582:
+  band: H
+  reference_wavelength: 1.582339
+  orders:
+    39:
+      detector1:
+        min: 1.445821
+        max: 1.4552850000000002
+      detector2:
+        min: 1.455997
+        max: 1.4649770000000002
+      detector3:
+        min: 1.465616
+        max: 1.474154
+    38:
+      detector1:
+        min: 1.483892
+        max: 1.493603
+      detector2:
+        min: 1.4943030000000002
+        max: 1.503554
+      detector3:
+        min: 1.504199
+        max: 1.512957
+    37:
+      detector1:
+        min: 1.5240150000000001
+        max: 1.5339829999999999
+      detector2:
+        min: 1.534701
+        max: 1.544194
+      detector3:
+        min: 1.5448499999999998
+        max: 1.553844
+    36:
+      detector1:
+        min: 1.566354
+        max: 1.5765909999999999
+      detector2:
+        min: 1.577323
+        max: 1.587075
+      detector3:
+        min: 1.587758
+        max: 1.596996
+    35:
+      detector1:
+        min: 1.611095
+        max: 1.621618
+      detector2:
+        min: 1.622371
+        max: 1.6324020000000001
+      detector3:
+        min: 1.633094
+        max: 1.6425889999999999
+    34:
+      detector1:
+        min: 1.6584619999999999
+        max: 1.6692829999999999
+      detector2:
+        min: 1.670056
+        max: 1.680367
+      detector3:
+        min: 1.681086
+        max: 1.690855
+    33:
+      detector1:
+        min: 1.708669
+        max: 1.719799
+      detector2:
+        min: 1.720597
+        max: 1.731211
+      detector3:
+        min: 1.731958
+        max: 1.741961
+    32:
+      detector1:
+        min: 1.761982
+        max: 1.773455
+      detector2:
+        min: 1.774278
+        max: 1.785215
+      detector3:
+        min: 1.785982
+        max: 1.796351
+J1226:
+  band: J
+  reference_wavelength: 1.2264659999999998
+  orders:
+    50:
+      detector1:
+        min: 1.116376
+        max: 1.124028
+      detector2:
+        min: 1.124586
+        max: 1.1318789999999999
+      detector3:
+        min: 1.132404
+        max: 1.1393330000000002
+    49:
+      detector1:
+        min: 1.139175
+        max: 1.146984
+      detector2:
+        min: 1.147551
+        max: 1.1549939999999999
+      detector3:
+        min: 1.155521
+        max: 1.162592
+    48:
+      detector1:
+        min: 1.162922
+        max: 1.170895
+      detector2:
+        min: 1.171466
+        max: 1.179065
+      detector3:
+        min: 1.179598
+        max: 1.186818
+    47:
+      detector1:
+        min: 1.1876669999999998
+        max: 1.195821
+      detector2:
+        min: 1.196391
+        max: 1.204153
+      detector3:
+        min: 1.2047
+        max: 1.212078
+    46:
+      detector1:
+        min: 1.213484
+        max: 1.221805
+      detector2:
+        min: 1.222389
+        max: 1.2303199999999999
+      detector3:
+        min: 1.230864
+        max: 1.2383989999999998
+    45:
+      detector1:
+        min: 1.2404629999999999
+        max: 1.248942
+      detector2:
+        min: 1.2495340000000001
+        max: 1.2576420000000001
+      detector3:
+        min: 1.258205
+        max: 1.265874
+    44:
+      detector1:
+        min: 1.268607
+        max: 1.277307
+      detector2:
+        min: 1.2779010000000002
+        max: 1.286194
+      detector3:
+        min: 1.286754
+        max: 1.294634
+    43:
+      detector1:
+        min: 1.298103
+        max: 1.306964
+      detector2:
+        min: 1.307579
+        max: 1.316065
+      detector3:
+        min: 1.316608
+        max: 1.324672
+    42:
+      detector1:
+        min: 1.3289570000000002
+        max: 1.338011
+      detector2:
+        min: 1.338632
+        max: 1.347322
+      detector3:
+        min: 1.3478979999999998
+        max: 1.356153
+J1228:
+  band: J
+  reference_wavelength: 1.228488
+  orders:
+    50:
+      detector1:
+        min: 1.118324
+        max: 1.1259290000000002
+      detector2:
+        min: 1.126482
+        max: 1.133728
+      detector3:
+        min: 1.13424
+        max: 1.1411300000000002
+    49:
+      detector1:
+        min: 1.141162
+        max: 1.148915
+      detector2:
+        min: 1.149483
+        max: 1.156873
+      detector3:
+        min: 1.157408
+        max: 1.164437
+    48:
+      detector1:
+        min: 1.164943
+        max: 1.172869
+      detector2:
+        min: 1.1734390000000001
+        max: 1.18099
+      detector3:
+        min: 1.181526
+        max: 1.188696
+    47:
+      detector1:
+        min: 1.189744
+        max: 1.197829
+      detector2:
+        min: 1.198404
+        max: 1.2061169999999999
+      detector3:
+        min: 1.206661
+        max: 1.2139790000000001
+    46:
+      detector1:
+        min: 1.215616
+        max: 1.223864
+      detector2:
+        min: 1.2244480000000002
+        max: 1.232329
+      detector3:
+        min: 1.232882
+        max: 1.240355
+    45:
+      detector1:
+        min: 1.242588
+        max: 1.251044
+      detector2:
+        min: 1.251638
+        max: 1.259696
+      detector3:
+        min: 1.260256
+        max: 1.267894
+    44:
+      detector1:
+        min: 1.270837
+        max: 1.2794429999999999
+      detector2:
+        min: 1.280047
+        max: 1.288288
+      detector3:
+        min: 1.288857
+        max: 1.2966579999999999
+    43:
+      detector1:
+        min: 1.3003589999999998
+        max: 1.309164
+      detector2:
+        min: 1.30978
+        max: 1.318214
+      detector3:
+        min: 1.318757
+        max: 1.326768
+J1232:
+  band: J
+  reference_wavelength: 1.23249
+  orders:
+    50:
+      detector1:
+        min: 1.1221210000000001
+        max: 1.129638
+      detector2:
+        min: 1.1301949999999998
+        max: 1.1373520000000001
+      detector3:
+        min: 1.137855
+        max: 1.144645
+    49:
+      detector1:
+        min: 1.14504
+        max: 1.152711
+      detector2:
+        min: 1.153271
+        max: 1.1605750000000001
+      detector3:
+        min: 1.161089
+        max: 1.168019
+    48:
+      detector1:
+        min: 1.168906
+        max: 1.1767370000000001
+      detector2:
+        min: 1.1773030000000002
+        max: 1.1847590000000001
+      detector3:
+        min: 1.18528
+        max: 1.192356
+    47:
+      detector1:
+        min: 1.1938019999999998
+        max: 1.201786
+      detector2:
+        min: 1.202356
+        max: 1.2099659999999999
+      detector3:
+        min: 1.210493
+        max: 1.2177200000000001
+    46:
+      detector1:
+        min: 1.2197339999999999
+        max: 1.227908
+      detector2:
+        min: 1.228475
+        max: 1.2362570000000002
+      detector3:
+        min: 1.236797
+        max: 1.2441820000000001
+    45:
+      detector1:
+        min: 1.2468130000000002
+        max: 1.2551690000000002
+      detector2:
+        min: 1.25576
+        max: 1.26371
+      detector3:
+        min: 1.2642650000000002
+        max: 1.271798
+    44:
+      detector1:
+        min: 1.2751620000000001
+        max: 1.28367
+      detector2:
+        min: 1.28426
+        max: 1.292398
+      detector3:
+        min: 1.292939
+        max: 1.300661
+    43:
+      detector1:
+        min: 1.3047760000000002
+        max: 1.313473
+      detector2:
+        min: 1.31409
+        max: 1.322387
+      detector3:
+        min: 1.32297
+        max: 1.330842
+K2148:
+  band: K
+  reference_wavelength: 2.1476460000000004
+  orders:
+    28:
+      detector1:
+        min: 1.972256
+        max: 1.986385
+      detector2:
+        min: 1.9874100000000001
+        max: 2.0009259999999998
+      detector3:
+        min: 2.0018730000000002
+        max: 2.014734
+    27:
+      detector1:
+        min: 2.04534
+        max: 2.0599830000000003
+      detector2:
+        min: 2.061032
+        max: 2.075043
+      detector3:
+        min: 2.0760140000000002
+        max: 2.089352
+    26:
+      detector1:
+        min: 2.12402
+        max: 2.139214
+      detector2:
+        min: 2.140304
+        max: 2.154844
+      detector3:
+        min: 2.1558629999999996
+        max: 2.169707
+    25:
+      detector1:
+        min: 2.2089600000000003
+        max: 2.2247489999999996
+      detector2:
+        min: 2.225886
+        max: 2.2409969999999997
+      detector3:
+        min: 2.242063
+        max: 2.256446
+    24:
+      detector1:
+        min: 2.300945
+        max: 2.317377
+      detector2:
+        min: 2.3185569999999998
+        max: 2.334281
+      detector3:
+        min: 2.335367
+        max: 2.350327
+    23:
+      detector1:
+        min: 2.400875
+        max: 2.418003
+      detector2:
+        min: 2.41921
+        max: 2.435596
+      detector3:
+        min: 2.436646
+        max: 2.452223
+K2166:
+  band: K
+  reference_wavelength: 2.166016
+  orders:
+    29:
+      detector1:
+        min: 1.921318
+        max: 1.9345830000000002
+      detector2:
+        min: 1.9355429999999998
+        max: 1.948213
+      detector3:
+        min: 1.949097
+        max: 1.961128
+    28:
+      detector1:
+        min: 1.989978
+        max: 2.003709
+      detector2:
+        min: 2.004701
+        max: 2.017816
+      detector3:
+        min: 2.018708
+        max: 2.031165
+    26:
+      detector1:
+        min: 2.143087
+        max: 2.157855
+      detector2:
+        min: 2.158914
+        max: 2.17302
+      detector3:
+        min: 2.173983
+        max: 2.187386
+    25:
+      detector1:
+        min: 2.228786
+        max: 2.2441329999999997
+      detector2:
+        min: 2.2452289999999997
+        max: 2.259888
+      detector3:
+        min: 2.260904
+        max: 2.274835
+    24:
+      detector1:
+        min: 2.321596
+        max: 2.337568
+      detector2:
+        min: 2.3387040000000003
+        max: 2.353961
+      detector3:
+        min: 2.355035
+        max: 2.3695340000000003
+    23:
+      detector1:
+        min: 2.422415
+        max: 2.439061
+      detector2:
+        min: 2.4402429999999997
+        max: 2.456145
+      detector3:
+        min: 2.457275
+        max: 2.472388
+K2192:
+  band: K
+  reference_wavelength: 2.192449
+  orders:
+    29:
+      detector1:
+        min: 1.945903
+        max: 1.958593
+      detector2:
+        min: 1.9595129999999998
+        max: 1.971602
+      detector3:
+        min: 1.972427
+        max: 1.983862
+    28:
+      detector1:
+        min: 2.015429
+        max: 2.028567
+      detector2:
+        min: 2.029515
+        max: 2.042023
+      detector3:
+        min: 2.042891
+        max: 2.054735
+    27:
+      detector1:
+        min: 2.09011
+        max: 2.103732
+      detector2:
+        min: 2.104689
+        max: 2.117655
+      detector3:
+        min: 2.118558
+        max: 2.1308290000000003
+    26:
+      detector1:
+        min: 2.1705140000000003
+        max: 2.184625
+      detector2:
+        min: 2.1856269999999998
+        max: 2.199084
+      detector3:
+        min: 2.200025
+        max: 2.212757
+    25:
+      detector1:
+        min: 2.2572829999999997
+        max: 2.271974
+      detector2:
+        min: 2.273005
+        max: 2.286985
+      detector3:
+        min: 2.2879609999999997
+        max: 2.301199
+    24:
+      detector1:
+        min: 2.35127
+        max: 2.366529
+      detector2:
+        min: 2.367643
+        max: 2.38218
+      detector3:
+        min: 2.383225
+        max: 2.3969769999999997
+    23:
+      detector1:
+        min: 2.4533620000000003
+        max: 2.4693
+      detector2:
+        min: 2.470049
+        max: 2.485351
+      detector3:
+        min: 2.4866289999999998
+        max: 2.501029
+K2217:
+  band: K
+  reference_wavelength: 2.216704
+  orders:
+    29:
+      detector1:
+        min: 1.968506
+        max: 1.980625
+      detector2:
+        min: 1.981503
+        max: 1.993009
+      detector3:
+        min: 1.9937989999999999
+        max: 2.004659
+    28:
+      detector1:
+        min: 2.0388479999999998
+        max: 2.051392
+      detector2:
+        min: 2.052295
+        max: 2.064205
+      detector3:
+        min: 2.065026
+        max: 2.0762680000000002
+    27:
+      detector1:
+        min: 2.114377
+        max: 2.127377
+      detector2:
+        min: 2.12831
+        max: 2.140654
+      detector3:
+        min: 2.1415070000000003
+        max: 2.153159
+    26:
+      detector1:
+        min: 2.195687
+        max: 2.209178
+      detector2:
+        min: 2.210143
+        max: 2.222954
+      detector3:
+        min: 2.223843
+        max: 2.235935
+    25:
+      detector1:
+        min: 2.283474
+        max: 2.297492
+      detector2:
+        min: 2.298491
+        max: 2.311803
+      detector3:
+        min: 2.312734
+        max: 2.3253000000000004
+    24:
+      detector1:
+        min: 2.3785320000000003
+        max: 2.3931199999999997
+      detector2:
+        min: 2.3941500000000002
+        max: 2.4080030000000003
+      detector3:
+        min: 2.408983
+        max: 2.4220590000000004
+L3244:
+  band: L
+  reference_wavelength: 3.244424
+  orders:
+    19:
+      detector1:
+        min: 2.869299
+        max: 2.8909160000000003
+      detector2:
+        min: 2.892491
+        max: 2.9132089999999997
+      detector3:
+        min: 2.914655
+        max: 2.9344409999999996
+    18:
+      detector1:
+        min: 3.028728
+        max: 3.051534
+      detector2:
+        min: 3.0531819999999996
+        max: 3.075059
+      detector3:
+        min: 3.076589
+        max: 3.0974630000000003
+    17:
+      detector1:
+        min: 3.206892
+        max: 3.231026
+      detector2:
+        min: 3.232768
+        max: 3.25592
+      detector3:
+        min: 3.25754
+        max: 3.2796399999999997
+    16:
+      detector1:
+        min: 3.407284
+        max: 3.432913
+      detector2:
+        min: 3.4347559999999997
+        max: 3.459347
+      detector3:
+        min: 3.461072
+        max: 3.484518
+    15:
+      detector1:
+        min: 3.634348
+        max: 3.661656
+      detector2:
+        min: 3.663614
+        max: 3.689825
+      detector3:
+        min: 3.691662
+        max: 3.7166770000000002
+    14:
+      detector1:
+        min: 3.893747
+        max: 3.923016
+      detector2:
+        min: 3.925093
+        max: 3.9531509999999996
+      detector3:
+        min: 3.955117
+        max: 3.981898
+L3262:
+  band: L
+  reference_wavelength: 3.26214
+  orders:
+    19:
+      detector1:
+        min: 2.885632
+        max: 2.9069059999999998
+      detector2:
+        min: 2.908446
+        max: 2.9288290000000003
+      detector3:
+        min: 2.930266
+        max: 2.949685
+    18:
+      detector1:
+        min: 3.045964
+        max: 3.068406
+      detector2:
+        min: 3.070035
+        max: 3.091545
+      detector3:
+        min: 3.093044
+        max: 3.1135509999999997
+    17:
+      detector1:
+        min: 3.225143
+        max: 3.248895
+      detector2:
+        min: 3.250607
+        max: 3.27337
+      detector3:
+        min: 3.274954
+        max: 3.296657
+    16:
+      detector1:
+        min: 3.426699
+        max: 3.451899
+      detector2:
+        min: 3.4537109999999998
+        max: 3.477883
+      detector3:
+        min: 3.479581
+        max: 3.50263
+    15:
+      detector1:
+        min: 3.6550219999999998
+        max: 3.68191
+      detector2:
+        min: 3.68385
+        max: 3.7096109999999998
+      detector3:
+        min: 3.711404
+        max: 3.73598
+    14:
+      detector1:
+        min: 3.915904
+        max: 3.944689
+      detector2:
+        min: 3.946699
+        max: 3.9743000000000004
+      detector3:
+        min: 3.976391
+        max: 4.003132
+L3302:
+  band: L
+  reference_wavelength: 3.30221
+  orders:
+    19:
+      detector1:
+        min: 2.922857
+        max: 2.943317
+      detector2:
+        min: 2.94482
+        max: 2.964364
+      detector3:
+        min: 2.965707
+        max: 2.984312
+    18:
+      detector1:
+        min: 3.0852579999999996
+        max: 3.106844
+      detector2:
+        min: 3.108402
+        max: 3.129038
+      detector3:
+        min: 3.130458
+        max: 3.150092
+    17:
+      detector1:
+        min: 3.266735
+        max: 3.2895689999999997
+      detector2:
+        min: 3.291221
+        max: 3.313059
+      detector3:
+        min: 3.314588
+        max: 3.335359
+    16:
+      detector1:
+        min: 3.4708710000000003
+        max: 3.495129
+      detector2:
+        min: 3.496877
+        max: 3.520094
+      detector3:
+        min: 3.5216790000000002
+        max: 3.543731
+    15:
+      detector1:
+        min: 3.702194
+        max: 3.72802
+      detector2:
+        min: 3.729857
+        max: 3.754581
+      detector3:
+        min: 3.756328
+        max: 3.779836
+    14:
+      detector1:
+        min: 3.966417
+        max: 3.9941060000000004
+      detector2:
+        min: 3.9960459999999998
+        max: 4.022503
+      detector3:
+        min: 4.024366
+        max: 4.049534
+L3340:
+  band: L
+  reference_wavelength: 3.3404920000000002
+  orders:
+    19:
+      detector1:
+        min: 2.9584070000000002
+        max: 2.978046
+      detector2:
+        min: 2.979463
+        max: 2.998191
+      detector3:
+        min: 2.9994899999999998
+        max: 3.0172399999999997
+    18:
+      detector1:
+        min: 3.122778
+        max: 3.143499
+      detector2:
+        min: 3.144993
+        max: 3.1647570000000003
+      detector3:
+        min: 3.1661219999999997
+        max: 3.1848539999999996
+    17:
+      detector1:
+        min: 3.3064560000000003
+        max: 3.328382
+      detector2:
+        min: 3.329967
+        max: 3.350842
+      detector3:
+        min: 3.35233
+        max: 3.372157
+    16:
+      detector1:
+        min: 3.5130619999999997
+        max: 3.536345
+      detector2:
+        min: 3.538014
+        max: 3.560226
+      detector3:
+        min: 3.561772
+        max: 3.582824
+    15:
+      detector1:
+        min: 3.7471439999999996
+        max: 3.771966
+      detector2:
+        min: 3.773759
+        max: 3.797451
+      detector3:
+        min: 3.799056
+        max: 3.8215019999999997
+    14:
+      detector1:
+        min: 4.014595
+        max: 4.041163
+      detector2:
+        min: 4.043047
+        max: 4.068385
+      detector3:
+        min: 4.070157
+        max: 4.0941909999999995
+L3377:
+  band: L
+  reference_wavelength: 3.376965
+  orders:
+    20:
+      detector1:
+        min: 2.842535
+        max: 2.860486
+      detector2:
+        min: 2.8617730000000003
+        max: 2.878771
+      detector3:
+        min: 2.8799479999999997
+        max: 2.896011
+    19:
+      detector1:
+        min: 2.9922530000000003
+        max: 3.011062
+      detector2:
+        min: 3.012416
+        max: 3.0303
+      detector3:
+        min: 3.031542
+        max: 3.0484459999999998
+    18:
+      detector1:
+        min: 3.1585039999999998
+        max: 3.178352
+      detector2:
+        min: 3.179771
+        max: 3.1986410000000003
+      detector3:
+        min: 3.199953
+        max: 3.217788
+    17:
+      detector1:
+        min: 3.344283
+        max: 3.365286
+      detector2:
+        min: 3.3667860000000003
+        max: 3.386758
+      detector3:
+        min: 3.388148
+        max: 3.407025
+    16:
+      detector1:
+        min: 3.553239
+        max: 3.575542
+      detector2:
+        min: 3.57713
+        max: 3.598335
+      detector3:
+        min: 3.5998099999999997
+        max: 3.6198560000000004
+    15:
+      detector1:
+        min: 3.789987
+        max: 3.813759
+      detector2:
+        min: 3.815457
+        max: 3.8380590000000003
+      detector3:
+        min: 3.839642
+        max: 3.8610160000000002
+    14:
+      detector1:
+        min: 4.060512
+        max: 4.0859369999999995
+      detector2:
+        min: 4.087728
+        max: 4.111934
+      detector3:
+        min: 4.113627999999999
+        max: 4.136495
+L3412:
+  band: L
+  reference_wavelength: 3.411608
+  orders:
+    20:
+      detector1:
+        min: 2.873364
+        max: 2.8904360000000002
+      detector2:
+        min: 2.891668
+        max: 2.907846
+      detector3:
+        min: 2.9089699999999996
+        max: 2.924212
+    19:
+      detector1:
+        min: 3.02462
+        max: 3.042587
+      detector2:
+        min: 3.043876
+        max: 3.060906
+      detector3:
+        min: 3.062085
+        max: 3.078125
+    18:
+      detector1:
+        min: 3.192666
+        max: 3.211623
+      detector2:
+        min: 3.212978
+        max: 3.230946
+      detector3:
+        min: 3.232194
+        max: 3.24912
+    17:
+      detector1:
+        min: 3.380448
+        max: 3.400511
+      detector2:
+        min: 3.401945
+        max: 3.420966
+      detector3:
+        min: 3.4222829999999997
+        max: 3.440195
+    16:
+      detector1:
+        min: 3.591664
+        max: 3.612964
+      detector2:
+        min: 3.614477
+        max: 3.634674
+      detector3:
+        min: 3.636083
+        max: 3.655103
+    15:
+      detector1:
+        min: 3.830969
+        max: 3.853678
+      detector2:
+        min: 3.855297
+        max: 3.876815
+      detector3:
+        min: 3.878317
+        max: 3.898595
+    14:
+      detector1:
+        min: 4.10437
+        max: 4.128693
+      detector2:
+        min: 4.130388
+        max: 4.153433
+      detector3:
+        min: 4.155116
+        max: 4.177202
+L3426:
+  band: L
+  reference_wavelength: 3.425891
+  orders:
+    20:
+      detector1:
+        min: 2.88594
+        max: 2.902683
+      detector2:
+        min: 2.903871
+        max: 2.919712
+      detector3:
+        min: 2.920799
+        max: 2.935691
+    19:
+      detector1:
+        min: 3.037854
+        max: 3.0554609999999998
+      detector2:
+        min: 3.056731
+        max: 3.073365
+      detector3:
+        min: 3.074541
+        max: 3.0902109999999996
+    18:
+      detector1:
+        min: 3.2066350000000003
+        max: 3.22521
+      detector2:
+        min: 3.226534
+        max: 3.2441199999999997
+      detector3:
+        min: 3.245341
+        max: 3.261875
+    17:
+      detector1:
+        min: 3.39524
+        max: 3.414897
+      detector2:
+        min: 3.416306
+        max: 3.434906
+      detector3:
+        min: 3.436198
+        max: 3.453699
+    16:
+      detector1:
+        min: 3.60737
+        max: 3.628243
+      detector2:
+        min: 3.6297289999999998
+        max: 3.6494899999999997
+      detector3:
+        min: 3.650871
+        max: 3.669452
+    15:
+      detector1:
+        min: 3.847721
+        max: 3.869972
+      detector2:
+        min: 3.8715479999999998
+        max: 3.892612
+      detector3:
+        min: 3.894083
+        max: 3.913894
+    14:
+      detector1:
+        min: 4.1223220000000005
+        max: 4.146129
+      detector2:
+        min: 4.147812
+        max: 4.170393
+      detector3:
+        min: 4.171934
+        max: 4.193138
+M4187:
+  band: M
+  reference_wavelength: 4.186838
+  orders:
+    15:
+      detector1:
+        min: 3.584036
+        max: 3.612418
+      detector2:
+        min: 3.614502
+        max: 3.641789
+      detector3:
+        min: 3.643685
+        max: 3.66979
+    14:
+      detector1:
+        min: 3.84008
+        max: 3.870509
+      detector2:
+        min: 3.872699
+        max: 3.901924
+      detector3:
+        min: 3.9039699999999997
+        max: 3.931931
+    13:
+      detector1:
+        min: 4.077305
+        max: 4.091896
+      detector2:
+        min: 4.1707399999999994
+        max: 4.20254
+      detector3:
+        min: 4.20409
+        max: 4.23456
+    12:
+      detector1:
+        min: 4.480033000000001
+        max: 4.515518
+      detector2:
+        min: 4.518067
+        max: 4.552122000000001
+      detector3:
+        min: 4.554511000000001
+        max: 4.587092999999999
+    11:
+      detector1:
+        min: 4.887287000000001
+        max: 4.925858
+      detector2:
+        min: 4.928522
+        max: 4.965392
+      detector3:
+        min: 4.968412
+        max: 5.003924
+M4211:
+  band: M
+  reference_wavelength: 4.210988
+  orders:
+    15:
+      detector1:
+        min: 3.60625
+        max: 3.63448
+      detector2:
+        min: 3.6359299999999997
+        max: 3.66308
+      detector3:
+        min: 3.6644
+        max: 3.69038
+    14:
+      detector1:
+        min: 3.86394
+        max: 3.89417
+      detector2:
+        min: 3.89572
+        max: 3.9248000000000003
+      detector3:
+        min: 3.92622
+        max: 3.95405
+    13:
+      detector1:
+        min: 4.161239999999999
+        max: 4.19379
+      detector2:
+        min: 4.19546
+        max: 4.2267600000000005
+      detector3:
+        min: 4.22828
+        max: 4.25824
+    12:
+      detector1:
+        min: 4.50805
+        max: 4.543279999999999
+      detector2:
+        min: 4.54509
+        max: 4.57898
+      detector3:
+        min: 4.58063
+        max: 4.613060000000001
+    11:
+      detector1:
+        min: 4.91781
+        max: 4.95622
+      detector2:
+        min: 4.958189999999999
+        max: 4.9951300000000005
+      detector3:
+        min: 4.99693
+        max: 5.03228
+M4266:
+  band: M
+  reference_wavelength: 4.265706
+  orders:
+    16:
+      detector1:
+        min: 3.4266199999999998
+        max: 3.45217
+      detector2:
+        min: 3.45348
+        max: 3.4779899999999997
+      detector3:
+        min: 3.47919
+        max: 3.50259
+    15:
+      detector1:
+        min: 3.65517
+        max: 3.68241
+      detector2:
+        min: 3.68381
+        max: 3.7099499999999996
+      detector3:
+        min: 3.71122
+        max: 3.73618
+    14:
+      detector1:
+        min: 3.91635
+        max: 3.94552
+      detector2:
+        min: 3.94702
+        max: 3.97501
+      detector3:
+        min: 3.9763800000000002
+        max: 4.00311
+    13:
+      detector1:
+        min: 4.2176800000000005
+        max: 4.24908
+      detector2:
+        min: 4.25069
+        max: 4.28083
+      detector3:
+        min: 4.28229
+        max: 4.31107
+    12:
+      detector1:
+        min: 4.56918
+        max: 4.60317
+      detector2:
+        min: 4.60491
+        max: 4.6375399999999996
+      detector3:
+        min: 4.63913
+        max: 4.67028
+    11:
+      detector1:
+        min: 4.98448
+        max: 5.02154
+      detector2:
+        min: 5.02344
+        max: 5.059
+      detector3:
+        min: 5.0607299999999995
+        max: 5.09469
+M4318:
+  band: M
+  reference_wavelength: 4.318114
+  orders:
+    16:
+      detector1:
+        min: 3.470411
+        max: 3.494721
+      detector2:
+        min: 3.496483
+        max: 3.519755
+      detector3:
+        min: 3.521322
+        max: 3.543417
+    15:
+      detector1:
+        min: 3.701841
+        max: 3.727757
+      detector2:
+        min: 3.7296129999999996
+        max: 3.754403
+      detector3:
+        min: 3.7561199999999997
+        max: 3.779684
+    14:
+      detector1:
+        min: 3.966266
+        max: 3.9940300000000004
+      detector2:
+        min: 3.995584
+        max: 4.022534
+      detector3:
+        min: 4.024425
+        max: 4.049663
+    13:
+      detector1:
+        min: 4.27192
+        max: 4.302149999999999
+      detector2:
+        min: 4.3037
+        max: 4.332649999999999
+      detector3:
+        min: 4.33406
+        max: 4.36164
+    12:
+      detector1:
+        min: 4.6272470000000006
+        max: 4.659592
+      detector2:
+        min: 4.661904000000001
+        max: 4.692845999999999
+      detector3:
+        min: 4.694989
+        max: 4.724347
+    11:
+      detector1:
+        min: 5.047643
+        max: 5.08299
+      detector2:
+        min: 5.08527
+        max: 5.1191130000000005
+      detector3:
+        min: 5.121574
+        max: 5.1541049999999995
 M4368:
   band: M
-
-  central_wavelength: 4.368
-
-  blaze_angle:
-
-  echelle_angle:
-
-  cross_disperser:
-
-  detectors:
-
-  orders: []
- 
-  wavelength_range:
-
-  nominal_resolution:
-
-  pipeline_recipe:
-
-  molecular_species: []
-
-  references:
+  reference_wavelength: 4.368182
+  orders:
+    16:
+      detector1:
+        min: 3.512841
+        max: 3.5361700000000003
+      detector2:
+        min: 3.537856
+        max: 3.560104
+      detector3:
+        min: 3.561643
+        max: 3.582734
+    15:
+      detector1:
+        min: 3.747081
+        max: 3.771959
+      detector2:
+        min: 3.773752
+        max: 3.7974699999999997
+      detector3:
+        min: 3.799128
+        max: 3.8216170000000003
+    14:
+      detector1:
+        min: 4.014774
+        max: 4.041413
+      detector2:
+        min: 4.043326
+        max: 4.0687310000000005
+      detector3:
+        min: 4.070499
+        max: 4.094586
+    13:
+      detector1:
+        min: 4.323720000000001
+        max: 4.35279
+      detector2:
+        min: 4.3542700000000005
+        max: 4.382029999999999
+      detector3:
+        min: 4.38338
+        max: 4.40976
+    12:
+      detector1:
+        min: 4.683789
+        max: 4.714816
+      detector2:
+        min: 4.717028
+        max: 4.746676000000001
+      detector3:
+        min: 4.748729999999999
+        max: 4.776814
+    11:
+      detector1:
+        min: 5.1093980000000006
+        max: 5.1433729999999995
+      detector2:
+        min: 5.145626
+        max: 5.177891
+      detector3:
+        min: 5.180152
+        max: 5.210712
+M4416:
+  band: M
+  reference_wavelength: 4.415885
+  orders:
+    16:
+      detector1:
+        min: 3.5528850000000003
+        max: 3.575236
+      detector2:
+        min: 3.5768470000000003
+        max: 3.598102
+      detector3:
+        min: 3.599566
+        max: 3.6196509999999997
+    15:
+      detector1:
+        min: 3.79006
+        max: 3.81424
+      detector2:
+        min: 3.815343
+        max: 3.838002
+      detector3:
+        min: 3.839576
+        max: 3.860993
+    14:
+      detector1:
+        min: 4.06086
+        max: 4.08676
+      detector2:
+        min: 4.087883
+        max: 4.1121620000000005
+      detector3:
+        min: 4.113837999999999
+        max: 4.1367709999999995
+    13:
+      detector1:
+        min: 4.356545
+        max: 4.397782
+      detector2:
+        min: 4.4025799999999995
+        max: 4.42914
+      detector3:
+        min: 4.43043
+        max: 4.45558
+    12:
+      detector1:
+        min: 4.737189
+        max: 4.766913
+      detector2:
+        min: 4.769063
+        max: 4.797305000000001
+      detector3:
+        min: 4.799268
+        max: 4.826002000000001
+    11:
+      detector1:
+        min: 5.168279999999999
+        max: 5.20118
+      detector2:
+        min: 5.202285
+        max: 5.233142
+      detector3:
+        min: 5.235259
+        max: 5.26441
+M4461:
+  band: M
+  reference_wavelength: 4.461195
+  orders:
+    16:
+      detector1:
+        min: 3.59138
+        max: 3.61309
+      detector2:
+        min: 3.614231
+        max: 3.634468
+      detector3:
+        min: 3.635859
+        max: 3.654913
+    15:
+      detector1:
+        min: 3.830813
+        max: 3.853577
+      detector2:
+        min: 3.8552109999999997
+        max: 3.876788
+      detector3:
+        min: 3.8782840000000003
+        max: 3.8986080000000003
+    14:
+      detector1:
+        min: 4.104462000000001
+        max: 4.128839
+      detector2:
+        min: 4.13059
+        max: 4.153701
+      detector3:
+        min: 4.155372000000001
+        max: 4.177575
+    13:
+      detector1:
+        min: 4.42039
+        max: 4.44707
+      detector2:
+        min: 4.44828
+        max: 4.473154999999999
+      detector3:
+        min: 4.474881
+        max: 4.498316
+    12:
+      detector1:
+        min: 4.788411
+        max: 4.8168109999999995
+      detector2:
+        min: 4.818835
+        max: 4.845776
+      detector3:
+        min: 4.847645000000001
+        max: 4.873005
+    11:
+      detector1:
+        min: 5.223469
+        max: 5.2544189999999995
+      detector2:
+        min: 5.256606
+        max: 5.285949
+      detector3:
+        min: 5.287727
+        max: 5.314153
+M4504:
+  band: M
+  reference_wavelength: 4.504089
+  orders:
+    16:
+      detector1:
+        min: 3.6277399999999997
+        max: 3.6484699999999997
+      detector2:
+        min: 3.64952
+        max: 3.66914
+      detector3:
+        min: 3.67009
+        max: 3.68855
+    15:
+      detector1:
+        min: 3.8696770000000003
+        max: 3.891365
+      detector2:
+        min: 3.892919
+        max: 3.9134029999999997
+      detector3:
+        min: 3.91482
+        max: 3.934041
+    14:
+      detector1:
+        min: 4.1460870000000005
+        max: 4.169288
+      detector2:
+        min: 4.170912
+        max: 4.192932
+      detector3:
+        min: 4.205061
+        max: 4.205061
+    13:
+      detector1:
+        min: 4.465002999999999
+        max: 4.490003
+      detector2:
+        min: 4.491783000000001
+        max: 4.515393
+      detector3:
+        min: 4.517037
+        max: 4.539197
+    12:
+      detector1:
+        min: 4.8369729999999995
+        max: 4.864033
+      detector2:
+        min: 4.865958
+        max: 4.891523
+      detector3:
+        min: 4.8933
+        max: 4.917292000000001
+    11:
+      detector1:
+        min: 5.276402
+        max: 5.30596
+      detector2:
+        min: 5.3083599999999995
+        max: 5.3368199999999995
+      detector3:
+        min: 5.339
+        max: 5.364215
+M4519:
+  band: M
+  reference_wavelength: 4.518527
+  orders:
+    16:
+      detector1:
+        min: 3.640138
+        max: 3.660513
+      detector2:
+        min: 3.661549
+        max: 3.6808170000000002
+      detector3:
+        min: 3.681749
+        max: 3.6998510000000002
+    15:
+      detector1:
+        min: 3.882902
+        max: 3.904627
+      detector2:
+        min: 3.905733
+        max: 3.926278
+      detector3:
+        min: 3.927271
+        max: 3.946576
+    14:
+      detector1:
+        min: 4.160322
+        max: 4.183587999999999
+      detector2:
+        min: 4.184772
+        max: 4.206776
+      detector3:
+        min: 4.20784
+        max: 4.228516
+    13:
+      detector1:
+        min: 4.480379
+        max: 4.505421999999999
+      detector2:
+        min: 4.506696
+        max: 4.530381
+      detector3:
+        min: 4.5315259999999995
+        max: 4.553782
+    12:
+      detector1:
+        min: 4.853707
+        max: 4.880817
+      detector2:
+        min: 4.882197
+        max: 4.907838
+      detector3:
+        min: 4.909078
+        max: 4.933175
+    11:
+      detector1:
+        min: 5.294786
+        max: 5.3243339999999995
+      detector2:
+        min: 5.325838
+        max: 5.353789
+      detector3:
+        min: 5.3551400000000005
+        max: 5.381405
+Y1028:
+  band: Y
+  reference_wavelength: 1.027632
+  orders:
+    59:
+      detector1:
+        min: 0.9479160000000001
+        max: 0.9543590000000001
+      detector2:
+        min: 0.9548369999999999
+        max: 0.960975
+      detector3:
+        min: 0.961412
+        max: 0.967241
+    58:
+      detector1:
+        min: 0.964271
+        max: 0.970826
+      detector2:
+        min: 0.971305
+        max: 0.9775499999999999
+      detector3:
+        min: 0.977996
+        max: 0.9839260000000001
+    57:
+      detector1:
+        min: 0.981198
+        max: 0.9878680000000001
+      detector2:
+        min: 0.988351
+        max: 0.994706
+      detector3:
+        min: 0.9951530000000001
+        max: 1.001188
+    56:
+      detector1:
+        min: 0.998719
+        max: 1.005509
+      detector2:
+        min: 1.005996
+        max: 1.012464
+      detector3:
+        min: 1.012918
+        max: 1.019062
+    55:
+      detector1:
+        min: 1.016878
+        max: 1.023792
+      detector2:
+        min: 1.02428
+        max: 1.030868
+      detector3:
+        min: 1.0313240000000001
+        max: 1.03758
+    54:
+      detector1:
+        min: 1.035698
+        max: 1.04274
+      detector2:
+        min: 1.0432329999999999
+        max: 1.049943
+      detector3:
+        min: 1.050403
+        max: 1.0567760000000002
+    53:
+      detector1:
+        min: 1.055243
+        max: 1.0623889999999998
+      detector2:
+        min: 1.0628879999999998
+        max: 1.0697249999999998
+      detector3:
+        min: 1.0701859999999999
+        max: 1.0766790000000002
+    52:
+      detector1:
+        min: 1.0755080000000001
+        max: 1.082787
+      detector2:
+        min: 1.083283
+        max: 1.090253
+      detector3:
+        min: 1.090732
+        max: 1.097352
+    51:
+      detector1:
+        min: 1.096565
+        max: 1.103982
+      detector2:
+        min: 1.1044990000000001
+        max: 1.111578
+      detector3:
+        min: 1.112076
+        max: 1.118795
+Y1029:
+  band: Y
+  reference_wavelength: 1.02931
+  orders:
+    59:
+      detector1:
+        min: 0.9495560000000001
+        max: 0.955964
+      detector2:
+        min: 0.956425
+        max: 0.9625410000000001
+      detector3:
+        min: 0.962963
+        max: 0.9687530000000001
+    58:
+      detector1:
+        min: 0.965933
+        max: 0.972448
+      detector2:
+        min: 0.972924
+        max: 0.97913
+      detector3:
+        min: 0.979573
+        max: 0.985463
+    57:
+      detector1:
+        min: 0.9828859999999999
+        max: 0.9895170000000001
+      detector2:
+        min: 0.989998
+        max: 0.996313
+      detector3:
+        min: 0.9967590000000001
+        max: 1.002754
+    56:
+      detector1:
+        min: 1.00044
+        max: 1.00719
+      detector2:
+        min: 1.007674
+        max: 1.014102
+      detector3:
+        min: 1.014553
+        max: 1.0206549999999999
+    55:
+      detector1:
+        min: 1.01863
+        max: 1.025501
+      detector2:
+        min: 1.025986
+        max: 1.032532
+      detector3:
+        min: 1.0329860000000002
+        max: 1.0392000000000001
+    54:
+      detector1:
+        min: 1.0374970000000001
+        max: 1.044479
+      detector2:
+        min: 1.044969
+        max: 1.051636
+      detector3:
+        min: 1.052096
+        max: 1.0584259999999999
+    53:
+      detector1:
+        min: 1.057032
+        max: 1.064166
+      detector2:
+        min: 1.064663
+        max: 1.071457
+      detector3:
+        min: 1.071912
+        max: 1.078362
+    52:
+      detector1:
+        min: 1.077359
+        max: 1.084595
+      detector2:
+        min: 1.0850909999999998
+        max: 1.092017
+      detector3:
+        min: 1.0925
+        max: 1.099051
+    51:
+      detector1:
+        min: 1.098447
+        max: 1.1058189999999999
+      detector2:
+        min: 1.106338
+        max: 1.11337
+      detector3:
+        min: 1.113871
+        max: 1.1205429999999998
