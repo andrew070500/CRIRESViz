@@ -1,0 +1,1 @@
+from dataclasses import dataclassimport numpy as np@dataclass(slots=True)class SkyModel:    """    Atmospheric transmission and sky emission.    """    wavelength: np.ndarray    transmission: np.ndarray    emission: np.ndarray

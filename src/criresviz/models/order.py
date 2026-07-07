@@ -1,0 +1,1 @@
+from dataclasses import dataclassfrom .detector import Detector@dataclass(slots=True)class Order:    """    One echelle order.    """    number: int    detectors: list[Detector]
