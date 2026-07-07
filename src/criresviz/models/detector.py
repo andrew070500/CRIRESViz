@@ -1,0 +1,1 @@
+from dataclasses import dataclassimport numpy as np@dataclass(slots=True)class Detector:    """    Represents one CRIRES+ detector.    """    detector_id: int    wavelength: np.ndarray

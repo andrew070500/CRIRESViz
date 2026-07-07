@@ -1,0 +1,24 @@
+M4368:
+  band: M
+
+  central_wavelength: 4.368
+
+  blaze_angle:
+
+  echelle_angle:
+
+  cross_disperser:
+
+  detectors:
+
+  orders: []
+ 
+  wavelength_range:
+
+  nominal_resolution:
+
+  pipeline_recipe:
+
+  molecular_species: []
+
+  references:
