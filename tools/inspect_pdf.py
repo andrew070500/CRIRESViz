@@ -3,8 +3,8 @@ from pathlib import Path
 import camelot
 import pickle
 
-from common import MANUALS
-from common import PREVIEW
+from criresviz.common import MANUALS
+from criresviz.common import PREVIEW
 
 def main():
 

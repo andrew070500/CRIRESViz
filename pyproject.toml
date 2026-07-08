@@ -7,7 +7,7 @@ name = "CRIRESViz"
 version = "0.1.0"
 description = "Visualization tools for CRIRES+ observations"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12,<3.13"
 license = {text = "MIT"}
 
 authors = [

@@ -1,0 +1,9 @@
+{
+    "species": "CO",
+    "temperature": 1700,
+    "pressure": 100000.0,
+    "pressure_unit": "Pa",
+    "wavelength_unit": "micron",
+    "opacity_mode": "lbl",
+    "source": "petitRADTRANS"
+}

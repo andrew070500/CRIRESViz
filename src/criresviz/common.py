@@ -1,6 +1,6 @@
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 
 MANUALS = ROOT / "resources" / "manuals" / "CRIRES_User_Manual_P116.1.pdf"
 
@@ -10,3 +10,4 @@ GENERATED = ROOT / "resources" / "generated"
 
 PREVIEW = EXTRACTED / "previews"
 
+OPACITY = GENERATED / "opacity"

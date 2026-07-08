@@ -1,7 +1,7 @@
 import camelot
 import pandas as pd
 
-from common import MANUALS, EXTRACTED
+from criresviz.common import MANUALS, EXTRACTED
 
 
 def main():
