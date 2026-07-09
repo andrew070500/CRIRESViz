@@ -5,6 +5,11 @@ from .models import (
     Molecule,
 )
 
+from .plotting import (
+    plot,
+
+)
+
 __version__ = "0.1.0"
 
 __all__ = [
@@ -12,4 +17,5 @@ __all__ = [
     "Order",
     "CRIRESSetting",
     "Molecule",
+    "plot",
 ]

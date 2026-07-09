@@ -12,3 +12,5 @@ assert len(setting.orders) == 6
 order = setting.get_order(13)
 
 assert order.number == 13
+
+print(setting)

@@ -1,6 +1,9 @@
 camelot-py[pdf]
 pandas
 pyyaml
+pybaselines
 pytest
 black
 ruff
+json
+pathlib

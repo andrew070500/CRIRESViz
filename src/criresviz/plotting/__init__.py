@@ -1,4 +1,3 @@
-from .plotting import plot_setting
-from .plotting import plot_molecule
+from .plot import plot
 
-__all__ = ["plot_setting"]
+__all__ = ["plot"]
