@@ -1,0 +1,42 @@
+WAVELENGTH_MIN = 0.9                # μm
+WAVELENGTH_MAX = 5.5                # μm
+AIRMASS = 1.2
+PWV = 3.5
+
+DEFAULT_SKYCALC_PARAMETERS = {
+    "airmass": AIRMASS,
+    "pwv_mode": "pwv",
+    "season": 0,
+    "time": 0,
+    "pwv": PWV,
+    "msolflux": 130.0,
+    "incl_moon": "Y",
+    "moon_sun_sep": 90.0,
+    "moon_target_sep": 45.0,
+    "moon_alt": 45.0,
+    "moon_earth_dist": 1.0,
+    "incl_starlight": "Y",
+    "incl_zodiacal": "Y",
+    "ecl_lon": 135.0,
+    "ecl_lat": 90.0,
+    "incl_loweratm": "Y",
+    "incl_upperatm": "Y",
+    "incl_airglow": "Y",
+    "incl_therm": "N",
+    "therm_t1": 0.0,
+    "therm_e1": 0.0,
+    "therm_t2": 0.0,
+    "therm_e2": 0.0,
+    "therm_t3": 0.0,
+    "therm_e3": 0.0,
+    "vacair": "vac",
+    "wmin": WAVELENGTH_MIN * 1000,   # μm → nm
+    "wmax": WAVELENGTH_MAX * 1000,
+    "wgrid_mode": "fixed_wavelength_step",
+    "wdelta": 0.01,
+    "wres": 100000,
+    "lsf_type": "none",
+    "lsf_gauss_fwhm": 5.0,
+    "lsf_boxcar_fwhm": 5.0,
+    "observatory": "paranal",
+}

@@ -12,8 +12,8 @@ ZORDER = {
 
 # detectors
 BOX_HEIGHT = 3.0
-ORDER_TEXT_SIZE = 8
-ALPHA = 0.65
+ORDER_TEXT_SIZE = 10
+ALPHA = 0.45
 COLORS = {
     "Y1029": {1: "#fd6b6b", 2: "#fd4b6b", 3: "#fd2b6b"},
     "Y1028": {1: "#fd896b", 2: "#fd894b", 3: "#fd892b"},
@@ -57,12 +57,7 @@ MOLECULE_COLORS = {
     "CO2": "#B279A2",
     "SiO": "#9D755D",
 }
-MOLECULE_HEIGHTS = {
-    "H2O": 0.96,
-    "CO": 0.92,
-    "CH4": 0.88,
-    "NH3": 0.84,
-    "CO2": 0.80,
-    "SiO": 0.76,
-}
 
+
+#sky 
+SKY_COLOR = {'transmission': 'mediumblue', 'radiance': 'indigo'}

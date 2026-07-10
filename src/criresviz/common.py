@@ -11,3 +11,5 @@ GENERATED = ROOT / "resources" / "generated"
 PREVIEW = EXTRACTED / "previews"
 
 OPACITY = GENERATED / "opacity"
+
+SKY = GENERATED / "sky"
