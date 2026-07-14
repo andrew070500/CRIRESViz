@@ -35,13 +35,6 @@ CRIRESViz is designed for astronomers working with CRIRES+ observations, atmosph
 
 ## Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/andrew070500/CRIRESViz.git
-cd CRIRESViz
-```
-
 Create a virtual environment
 
 ```bash
@@ -68,24 +61,31 @@ Upgrade pip
 pip install --upgrade pip
 ```
 
+Clone the repository
+
+```bash
+git clone https://github.com/andrew070500/CRIRESViz.git
+cd CRIRESViz
+```
+
 Install the package in editable mode
 
-# Install CRIRESViz
+### Install CRIRESViz
 ```bash
 pip install -e .
 ```
 
-# Install developer tools
+### Install developer tools
 ```bash
 pip install -e ".[tools]"
 ```
 
-# Install opacity-generation tools
+### Install opacity-generation tools
 ```bash
 pip install -e ".[opacity]"
 ```
 
-# Install everything
+### Install everything
 ```bash
 pip install -e ".[all]"
 ```
@@ -93,7 +93,7 @@ pip install -e ".[all]"
 To use the SkyCalc interface, install the ESO SkyCalc command-line client (`skycalc_cli`) and ensure it is available in your system PATH.
 
 ```
-skycalc_cli
+pip install skycalc_cli 
 ```
 
 ## Quick Start
