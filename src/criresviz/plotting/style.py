@@ -1,6 +1,4 @@
-'''
-Settings
-'''
+# settings
 ZORDER = {
     "molecule": 9,
     "detector": 2,

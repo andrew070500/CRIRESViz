@@ -1,21 +1,27 @@
+"""
+CRIRESViz
+
+Visualization tools for CRIRES+ wavelength settings,
+molecular bands and atmospheric transmission.
+"""
+
+__version__ = "1.0.0"
+
+from .plotting import plot
+
 from .models import (
+    CRIRESSetting,
     Detector,
     Order,
-    CRIRESSetting,
     Molecule,
+    Sky,
 )
-
-from .plotting import (
-    plot,
-
-)
-
-__version__ = "0.1.0"
 
 __all__ = [
+    "plot",
+    "CRIRESSetting",
     "Detector",
     "Order",
-    "CRIRESSetting",
     "Molecule",
-    "plot",
+    "Sky",
 ]

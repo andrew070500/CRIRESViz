@@ -4,7 +4,7 @@
     "temperature": 1700,
     "pressure": 100000.0,
     "pressure_unit": "Pa",
-    "wavelenght_range": [
+    "wavelength_range": [
         0.9,
         5.5
     ],

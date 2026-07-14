@@ -13,14 +13,15 @@ H2O = Molecule.from_name("H2O")
 SiO = Molecule.from_name("SiO")
 CH4 = Molecule.from_name("CH4")
 
-sky = Sky.from_file("../resources/generated/sky/output.fits")
+#sky = Sky.from_file("../resources/generated/sky/output.fits")
+sky = Sky.from_skycalc(airmass=1.5)
 print(sky)
 
-#ax = plot(L)
-#plt.show()
+ax = plot(L)
+plt.show()
 
-#ax=plot(CO)
-#plt.show()
+ax=plot(CO)
+plt.show()
 
 ax = plot(L, M, K, layout='compact', sky=sky, sky_mode='radiance')
 plt.show()

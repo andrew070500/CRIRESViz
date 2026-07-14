@@ -1,12 +1,37 @@
-from pathlib import Path
-
 import camelot
-import pickle
+from criresviz.common import MANUALS, PREVIEW
 
-from criresviz.common import MANUALS
-from criresviz.common import PREVIEW
+DEBUG = False # Enable full PDF inspection.
+
+
+"""
+Extract the CRIRES+ settings tables from the ESO User Manual.
+
+The extracted tables are saved as CSV and pickle files for inspection
+and subsequent normalization.
+"""
 
 def main():
+    """
+    Extract the CRIRES+ settings tables from the User Manual.
+    """
+
+    if DEBUG:
+        tables = camelot.read_pdf(
+            str(MANUALS),
+            pages="all",
+            flavor="lattice",
+        )
+    
+        for i, table in enumerate(tables):
+    
+            df = table.df
+    
+            print("=" * 80)
+            print(f"Table {i} (page {table.parsing_report['page']})")
+            print(df.head())
+
+
 
     print(f"Reading {MANUALS.name}")
 
@@ -27,7 +52,7 @@ def main():
         filename = PREVIEW / f"{i:02d}_page{table.parsing_report['page']}.csv"
         df.to_csv(filename, index=False)
 
-        pkl_filename = str(filename).replace(".csv", ".pkl")
+        pkl_filename = filename.with_suffix(".pkl")
         df.to_pickle(pkl_filename)
      
 
