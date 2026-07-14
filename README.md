@@ -38,9 +38,10 @@ CRIRESViz is designed for astronomers working with CRIRES+ observations, atmosph
 Create a virtual environment
 
 ```bash
-python -m venv .venv
+python3.12 -m venv .venv
 ```
 
+**Python requirement**: CRIRESViz currently supports **Python 3.12**. This version is required for compatibility with the SkyCalc interface.
 Activate it
 
 Linux/macOS
