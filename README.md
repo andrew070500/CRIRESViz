@@ -38,10 +38,9 @@ CRIRESViz is designed for astronomers working with CRIRES+ observations, atmosph
 Create a virtual environment
 
 ```bash
-python3.12 -m venv .venv
+python3 -m venv <name venv>
 ```
 
-**Python requirement**: CRIRESViz currently supports **Python 3.12**. This version is required for compatibility with the SkyCalc interface.
 Activate it
 
 Linux/macOS
@@ -63,6 +62,8 @@ pip install --upgrade pip
 ```
 
 To use the SkyCalc interface, install the ESO SkyCalc command-line client (`skycalc_cli`) and ensure it is available in your system PATH.
+**SkyCalc requirement**: SkyCalc supports **setuptools v80.10.2**. This version is required to include in the download `pkg_resources`.
+
 
 ```
 pip install skycalc_cli 
@@ -124,28 +125,33 @@ plt.show()
 
 ## Examples
 
-The plotting interface accepts any combination of CRIRES+ settings, molecular opacity regions, and atmospheric models.
+The `examples/` directory contains a collection of self-contained scripts demonstrating the main features of CRIRESViz.
 
-```plot(setting)
+| Script | Description |
+|--------|-------------|
+| `01_single_setting.py` | Plot a single CRIRES+ wavelength setting |
+| `02_multiple_settings.py` | Compare multiple wavelength settings |
+| `03_single_molecule.py` | Overlay one molecular opacity region |
+| `04_multiple_molecules.py` | Compare several molecular species |
+| `05_sky_transmission.py` | Display atmospheric transmission from SkyCalc |
+| `06_sky_emission.py` | Display atmospheric thermal emission |
+| `07_compact_layout.py` | Use the compact broken-axis layout |
+| `08_everything_together.py` | Combine settings, molecules, and sky models in a single figure |
 
-plot(setting, molecule)
+To execute all examples sequentially, simply run
 
-plot(setting, sky=sky)
-
-plot(setting1, setting2)
-
-plot(setting1, setting2, molecule)
-
-plot(
-    setting1,
-    setting2,
-    molecule1,
-    molecule2,
-    sky=sky,
-)
+```bash
+cd examples
+./run_examples.sh
 ```
 
+The examples provide a quick overview of the package and serve as a starting point for building custom visualizations. 
 Every object in CRIRESViz is independent and reusable. A `CRIRESSetting`, `Molecule`, or `Sky` instance can be created once and reused across multiple figures, making it easy to explore different combinations interactively.
 This flexible object-oriented design makes it straightforward to build increasingly complex visualizations without changing the plotting API.
+
+
+
+
+
 
 
