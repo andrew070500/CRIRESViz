@@ -22,8 +22,6 @@ CRIRESViz is designed for astronomers working with CRIRES+ observations, atmosph
 - Installation
 - Quick Start
 - Examples
-- Citation
-- License
 
 ## Features
 
@@ -40,14 +38,56 @@ CRIRESViz is designed for astronomers working with CRIRES+ observations, atmosph
 Clone the repository
 
 ```bash
-git clone https://github.com/AndreaBarone/CRIRESViz.git
+git clone https://github.com/andrew070500/CRIRESViz.git
 cd CRIRESViz
+```
+
+Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it
+
+Linux/macOS
+
+```bash
+source .venv/bin/activate
+```
+
+Windows
+
+```powershell
+.venv\Scripts\activate
+```
+
+Upgrade pip
+
+```bash
+pip install --upgrade pip
 ```
 
 Install the package in editable mode
 
+# Install CRIRESViz
 ```bash
 pip install -e .
+```
+
+# Install developer tools
+```bash
+pip install -e ".[tools]"
+```
+
+# Install opacity-generation tools
+```bash
+pip install -e ".[opacity]"
+```
+
+# Install everything
+```bash
+pip install -e ".[all]"
 ```
 
 To use the SkyCalc interface, install the ESO SkyCalc command-line client (`skycalc_cli`) and ensure it is available in your system PATH.
@@ -80,7 +120,7 @@ plot(
 plt.show()
 ```
 
-## API examples
+## Examples
 
 The plotting interface accepts any combination of CRIRES+ settings, molecular opacity regions, and atmospheric models.
 
