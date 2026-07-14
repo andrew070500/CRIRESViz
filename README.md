@@ -62,6 +62,13 @@ Upgrade pip
 pip install --upgrade pip
 ```
 
+To use the SkyCalc interface, install the ESO SkyCalc command-line client (`skycalc_cli`) and ensure it is available in your system PATH.
+
+```
+pip install skycalc_cli 
+pip install "setuptools==80.10.2"
+```
+
 Clone the repository
 
 ```bash
@@ -89,12 +96,6 @@ pip install -e ".[opacity]"
 ### Install everything
 ```bash
 pip install -e ".[all]"
-```
-
-To use the SkyCalc interface, install the ESO SkyCalc command-line client (`skycalc_cli`) and ensure it is available in your system PATH.
-
-```
-pip install skycalc_cli 
 ```
 
 ## Quick Start
