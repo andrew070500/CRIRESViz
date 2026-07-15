@@ -179,6 +179,19 @@ Every object in CRIRESViz is independent and reusable. A `CRIRESSetting`, `Molec
 This flexible object-oriented design makes it straightforward to build increasingly complex visualizations without changing the plotting API.
 
 
+## Documentation
+
+A complete user guide is available in the `docs` directory.
+
+| Topic | Description |
+|-------|-------------|
+| [Introduction](docs/introduction.md) | Overview of CRIRESViz and its philosophy |
+| [Quick Start](docs/quickstart.md) | A quick guide to start right away |
+| [Settings](docs/settings.md) | Working with CRIRES+ wavelength settings |
+| [Molecules](docs/molecule.md) | Molecular opacity regions |
+| [Sky Models](docs/sky.md) | ESO SkyCalc integration |
+| [Plotting](docs/plotting.md) | Creating figures |
+| [Observation Planning](docs/observation_planning.md) | Coverage, ranking, and best-setting selection |
 
 
 
