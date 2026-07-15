@@ -27,9 +27,9 @@ CRIRESViz is designed for astronomers working with CRIRES+ observations, atmosph
 
 - Complete database of all CRIRES+ wavelength settings
 - Detector-by-detector wavelength coverage visualization
-- Compact broken-axis layouts for comparing multiple settings
 - Molecular opacity overlays
 - Atmospheric transmission and thermal emission from ESO SkyCalc
+- Compact broken-axis layouts for comparing multiple settings
 - Publication-quality figures with minimal code
 - Simple object-oriented API
 
@@ -126,7 +126,7 @@ plt.show()
 ```
 
 # Observations planning
-```
+```python
 from criresviz import (
     CRIRESSetting,
     Molecule,
