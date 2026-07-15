@@ -7,6 +7,13 @@ setting = CRIRESSetting.from_name("M4368")
 
 co = Molecule.from_name("CO")
 
+print(setting)
+print()
+print(co)
+print()
+print(f"Plotting {setting.name} and {co.name}...")
+print()
+
 plot(setting, co)
 
 plt.show()

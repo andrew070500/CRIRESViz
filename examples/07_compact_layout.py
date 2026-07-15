@@ -7,6 +7,15 @@ M = CRIRESSetting.from_name("M4368")
 L = CRIRESSetting.from_name("L3262")
 K = CRIRESSetting.from_name("K2166")
 
+print(L)
+print()
+print(M)
+print()
+print(K)
+print()
+print(f"Plotting {L.name}, {M.name}, and {K.name} in 'compact' layout...")
+print()
+
 plot(
     L,
     M,

@@ -6,6 +6,6 @@ Run any example with
 
 or run each one of them in sequence
 
-    ./run.sh
+    ./run_examples.sh
 
 Each script demonstrates one feature of the library.

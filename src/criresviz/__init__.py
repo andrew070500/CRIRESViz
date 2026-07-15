@@ -15,6 +15,7 @@ from .models import (
     Order,
     Molecule,
     Sky,
+    CRIRESBand
 )
 
 __all__ = [
@@ -24,4 +25,5 @@ __all__ = [
     "Order",
     "Molecule",
     "Sky",
+    "CRIRESBand",
 ]

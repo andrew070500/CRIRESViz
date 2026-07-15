@@ -15,6 +15,22 @@ sky = Sky.from_skycalc(
     airmass=1.5,
 )
 
+
+print(L)
+print()
+print(M)
+print()
+print(K)
+print()
+print(co)
+print()
+print(ch4)
+print()
+print(sio)
+print()
+print(f"Plotting {L.name}, {M.name}, {K.name}, {co.name}, {ch4.name}, {sio.name}, and atmospheric transmission in 'compact' layout...")
+print()
+
 plot(
     L,
     M,

@@ -3,6 +3,7 @@ from .order import Order
 from .setting import CRIRESSetting
 from .molecule import Molecule
 from .sky import Sky
+from .band import CRIRESBand
 
 __all__ = [
     "Detector",
@@ -10,4 +11,5 @@ __all__ = [
     "CRIRESSetting",
     "Molecule",
     "Sky",
+    "CRIRESBand",
 ]
