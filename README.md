@@ -125,6 +125,8 @@ plot(
 plt.show()
 ```
 
+![Example plot](docs/images/example_plot.png)
+
 # Observations planning
 ```python
 from criresviz import (
